@@ -860,32 +860,5 @@
       "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
       "idCategoria": "otros"
     } 
-  
-  
-
-    
-
-  ],
-  "categorias": [
-    {
-      "id": "panaderia",
-      "nombre": "Panaderia"
-    },
-    {
-      "id": "bebidas",
-      "nombre": "Bebidas"
-    },
-    {
-      "id": "pasabocas",
-      "nombre": "Pasaboocas"
-    },
-    {
-      "id": "dulces",
-      "nombre": "Dulces"
-    },
-    {
-      "id": "otros",
-      "nombre": "Otros"
-    }
   ]
 }
