@@ -109,91 +109,91 @@ const data = [
     {
         "id": 20,
         "nombre": "Mezcla lactea en polvo La Pecosita Presentaciones en bolsa 800gr y 380gr",
-        "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
+        "img": "assets/mezcla_la_pecosita_800gr.jpeg",
         "idCategoria": "otros"
     },
     {
         "id": 21,
         "nombre": "Mezcla lactea en polvo La Pecosita Presentaciones en bolsa papel x 5kl y 1kl",
-        "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
+        "img": "assets/leche_la_pecosita_5kl.jpeg",
         "idCategoria": "otros"
     },
     {
         "id": 22,
         "nombre": "Chocolate de mesa con azucar Al Gusto Presentacion por 500 gr y 250 gr",
-        "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
+        "img": "https://gracol.com.co/wp-content/uploads/2024/02/Al-Gusto.png",
         "idCategoria": "otros"
     },
     {
         "id": 23,
         "nombre": "Galleta Caritas Presentacion Domo por 100 unds",
-        "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
+        "img": "assets/galletas_caritas.jpeg",
         "idCategoria": "panaderia"
     },
     {
         "id": 24,
         "nombre": "Galleta Coronas Presentacion Domo por 50 unds",
-        "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
+        "img": "assets/galletas_coronas.jpeg",
         "idCategoria": "panaderia"
     },
     {
         "id": 25,
         "nombre": "Galleta deditos Presentacion Domo por 100 unds",
-        "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
+        "img": "https://dulceria.co/wp-content/uploads/2019/10/22-3-600x600.jpg",
         "idCategoria": "panaderia"
     },
     {
         "id": 26,
         "nombre": "Galleta Corazon Presentacion Domo por 60 unds",
-        "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
+        "img": "assets/galletas_corazon.jpeg",
         "idCategoria": "panaderia"
     },
     {
         "id": 27,
         "nombre": "Galleta Girasol Presentacion Domo por 100 y 200 unds",
-        "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
+        "img": "https://dulceria.co/wp-content/uploads/2019/10/19-1.jpg",
         "idCategoria": "panaderia"
     },
     {
         "id": 28,
         "nombre": "Galleta cuca Presentacion bolsa x 30 unds",
-        "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
+        "img": "https://www.soldeoriente.co/shared/rs.php?rsid=1789",
         "idCategoria": "panaderia"
     },
     {
         "id": 29,
         "nombre": "Galleta punto rojo Presentacion bolsa x 30 unds",
-        "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
+        "img": "assets/galletas_punto_rojo.jpeg",
         "idCategoria": "panaderia"
     },
     {
         "id": 30,
         "nombre": "Torta Maria Luisa Presentacion torta x 16 unds",
-        "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
+        "img": "https://reposteriamarialuisa.com/wp-content/uploads/2020/08/Marialuisa-de-arequipe-fondo-Blanco.jpg",
         "idCategoria": "panaderia"
     },
     {
         "id": 31,
         "nombre": "Torta Maria Luisa Presentacion domo x 40 unds",
-        "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
+        "img": "assets/torta_maria_luisa_x40uds.jpeg",
         "idCategoria": "panaderia"
     },
     {
         "id": 32,
         "nombre": "Torta Maria Luisa Nelson Presentacion paquete x 10 unds",
-        "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
+        "img": "assets/galletas_nelson.jpeg",
         "idCategoria": "panaderia"
     },
     {
         "id": 33,
         "nombre": "Torta mantecada Presentacion domo x 14 unds",
-        "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
+        "img": "assets/torta_mantecada.jpeg",
         "idCategoria": "panaderia"
     },
     {
         "id": 34,
         "nombre": "Torta Envinada Presentacion domo x 14 unds",
-        "img": "https://licoresdelasabana.com/wp-content/uploads/2019/08/Papa-Margarita-Limon.jpg",
+        "img": "assets/torta_envinada.jpeg",
         "idCategoria": "panaderia"
     },
     {
