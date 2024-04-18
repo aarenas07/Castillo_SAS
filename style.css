@@ -140,31 +140,72 @@ header {
 
 /* CONTACT PAGE */
 
-.container{
-  max-width: 800px;
-  margin: 0 auto;
+/* styles.css */
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
   padding: 20px;
 }
 
-h1{
-  text-align: center;
-  font-size: 30px;
+#contacto {
+  margin-bottom: 40px;
 }
 
-.contact-info{
+#contacto form {
+  max-width: 500px;
+  margin: auto;
+}
+
+#contacto label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#contacto input[type="text"],
+#contacto input[type="email"],
+#contacto textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
   border: 1px solid #ccc;
-  border-radius: 5px;
-  padding: 30px;
-  margin-top: 29px;
 }
 
-
-.contact-info p{
-  margin: 10px 0;
+#contacto button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
 }
 
-@media only screen and (max-width:600px){
-  .contact-info{
-    padding: 10px;
-  }
+.informacion-contacto {
+  margin-top: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
 }
