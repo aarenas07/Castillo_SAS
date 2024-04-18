@@ -137,3 +137,34 @@ header {
       grid-template-columns: repeat(3, 1fr);
   }
 }
+
+/* CONTACT PAGE */
+
+.container{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1{
+  text-align: center;
+  font-size: 30px;
+}
+
+.contact-info{
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 30px;
+  margin-top: 29px;
+}
+
+
+.contact-info p{
+  margin: 10px 0;
+}
+
+@media only screen and (max-width:600px){
+  .contact-info{
+    padding: 10px;
+  }
+}
